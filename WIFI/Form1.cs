@@ -110,7 +110,7 @@ namespace WIFI
                 }
                 catch
                 {
-                    MessageBox.Show("请重新打开程序");
+                    
                 }
 
         }
