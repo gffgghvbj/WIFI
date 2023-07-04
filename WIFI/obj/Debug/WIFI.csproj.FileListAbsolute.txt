@@ -1,8 +1,0 @@
-E:\Projects\WIFI\WIFI\bin\Debug\WIFI.exe
-E:\Projects\WIFI\WIFI\bin\Debug\WIFI.pdb
-E:\Projects\WIFI\WIFI\obj\Debug\WIFI.csprojResolveAssemblyReference.cache
-E:\Projects\WIFI\WIFI\obj\Debug\WIFI.Form1.resources
-E:\Projects\WIFI\WIFI\obj\Debug\WIFI.Properties.Resources.resources
-E:\Projects\WIFI\WIFI\obj\Debug\WIFI.csproj.GenerateResource.Cache
-E:\Projects\WIFI\WIFI\obj\Debug\WIFI.exe
-E:\Projects\WIFI\WIFI\obj\Debug\WIFI.pdb
